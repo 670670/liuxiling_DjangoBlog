@@ -1,0 +1,2 @@
+# liuxiling_DjangoBlog
+用python的django框架实现一个个人分享网站
